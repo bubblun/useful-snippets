@@ -24,6 +24,8 @@ Afterwards run `update-grub2`.
 
 ### Disable Apparmor
 
-    update-rc.d apparmor disable
-    /etc/init.d/apparmor stop
-    update-rc.d -f apparmor remove
+```bash
+update-rc.d apparmor disable
+/etc/init.d/apparmor stop
+update-rc.d -f apparmor remove
+```
