@@ -6,4 +6,5 @@ May this be as useful to you as it is to me.
 
 ## Index
 
+* [Apache](snippets/apache.markdown)
 * [Server Administration](server-administration.markdown)
