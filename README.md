@@ -4,8 +4,12 @@ A collection of useful snippets I collect. Basically I want to have a notebook w
 
 May this be as useful to you as it is to me.
 
-## Index
+## Snippet Index
 
 * [Apache](snippets/apache.markdown)
 * [apt](snippets/apt.markdown)
 * [Server Administration](server-administration.markdown)
+
+## How-to Index
+
+* [How to backup a Linux server via FTP](howto)
