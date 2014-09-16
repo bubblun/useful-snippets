@@ -22,7 +22,11 @@ Afterwards run `update-grub2`.
 
 ## Services
 
-### Disable Apparmor
+### Disable service
+
+    update-rc.d -f <SERVICE> remove
+
+### Uninstall Apparmor
 
 ```bash
 update-rc.d apparmor disable
