@@ -40,6 +40,7 @@ Use `nobootwait`.
 
 */etc/defaults/grub:*
 
+    GRUB_TIMEOUT=0
     GRUB_RECORDFAIL_TIMEOUT=0
 
 Afterwards run `update-grub2`.
