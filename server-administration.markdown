@@ -6,7 +6,7 @@
 
 Use `nobootwait`.
 
-*/etc/fstab*
+*/etc/fstab:*
 
     UUID=1234567890 /share ext4 utf8,auto,rw,user,nobootwait 0 0
 
@@ -14,7 +14,7 @@ Use `nobootwait`.
 
 ### Boot without manual interruption
 
-*/etc/defaults/grub*
+*/etc/defaults/grub:*
 
     GRUB_RECORDFAIL_TIMEOUT=0
 
