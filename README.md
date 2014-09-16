@@ -7,4 +7,5 @@ May this be as useful to you as it is to me.
 ## Index
 
 * [Apache](snippets/apache.markdown)
+* [apt](snippets/apt.markdown)
 * [Server Administration](server-administration.markdown)
