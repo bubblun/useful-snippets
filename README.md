@@ -8,6 +8,7 @@ May this be as useful to you as it is to me.
 
 * [Apache](snippets/apache.markdown)
 * [apt](snippets/apt.markdown)
+* [Avahi](snippets/avahi.markdown)
 * [Server Administration](server-administration.markdown)
 
 ## How-to Index
