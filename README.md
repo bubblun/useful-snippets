@@ -12,4 +12,4 @@ May this be as useful to you as it is to me.
 
 ## How-to Index
 
-* [How to backup a Linux server via FTP](howto)
+* [Backup a Linux server via FTP](backup_a_linux_server_to_ftp.markdown)
