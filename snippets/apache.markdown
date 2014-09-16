@@ -42,3 +42,27 @@ Restart Apache:
 ```bash
 service apache2 restart
 ```
+
+## Using multiple SSL certificates in Apache with one IP address
+
+```apache
+<NameVirtualHost *:443>
+
+<VirtualHost *:443>
+    ServerName www.yoursite.com
+    DocumentRoot /var/www/site
+    SSLEngine on
+    SSLCertificateFile /path/to/www_yoursite_com.crt
+    SSLCertificateKeyFile /path/to/www_yoursite_com.key
+    SSLCertificateChainFile /path/to/DigiCertCA.crt
+</Virtual Host>
+
+<VirtualHost *:443>
+    ServerName www.yoursite2.com
+    DocumentRoot /var/www/site2
+    SSLEngine on
+    SSLCertificateFile /path/to/www_yoursite2_com.crt
+    SSLCertificateKeyFile /path/to/www_yoursite2_com.key
+    SSLCertificateChainFile /path/to/DigiCertCA.crt
+</Virtual Host>
+```
