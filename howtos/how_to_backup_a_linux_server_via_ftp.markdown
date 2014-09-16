@@ -1,8 +1,8 @@
 # Backup a Linux Server to FTP
 ## Install Duplicity
-<code>
-apt-get install duplicity
-</code>
+
+    apt-get install duplicity
+
 ## Install Duply
 
 ### Download
