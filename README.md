@@ -4,6 +4,10 @@ A collection of useful snippets I collect. Basically I want to have a notebook w
 
 May this be as useful to you as it is to me.
 
+## Coding Index
+
+* [Term](coding/terms.markdown)
+
 ## Snippet Index
 
 * [Apache](snippets/apache.markdown)
