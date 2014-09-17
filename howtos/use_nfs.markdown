@@ -37,4 +37,4 @@ For mounting at boot time, add something like this to `/etc/fstab`:
 
 ## Links
 
-* [[http://wiki.ubuntuusers.de/NFS]]
+* <http://wiki.ubuntuusers.de/NFS>
