@@ -21,3 +21,4 @@ May this be as useful to you as it is to me.
 ## How-to Index
 
 * [Backup a Linux server via FTP](howtos/backup_a_linux_server_via_ftp.markdown)
+* [Create an equalizer for all audio in Mac OS X](howtos/create_an_equalizer_for_all_audio_in_mac_os_x.markdown)
