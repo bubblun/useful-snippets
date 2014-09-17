@@ -1,4 +1,4 @@
-# Use NFS
+# How to use NFS
 
 ## Server
 
