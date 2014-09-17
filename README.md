@@ -1,6 +1,6 @@
 # Useful Snippets
 
-A collection of useful snippets I collect. Basically I want to have a notebook with all the handy stuff I come across, use once, and will then spend an eternity finding again when I need it. Plus, sharing this with everyone who is interested.
+A collection of useful snippets I collect. Basically I want to have a notebook with all the handy stuff I come across, use once, and will then spend an eternity finding again when I need it. Plus, sharing this with everyone who is interested is a nice bonus. I continue to learn so much on the internet for free, this is a miniature way of giving something back.
 
 May this be as useful to you as it is to me.
 
