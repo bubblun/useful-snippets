@@ -6,7 +6,7 @@ May this be as useful to you as it is to me.
 
 ## Coding Index
 
-* [Term](coding/terms.markdown)
+* [Terms](coding/terms.markdown)
 
 ## Snippet Index
 
